@@ -10,7 +10,7 @@ This project is a MySQL database that serves as the backend for managing employe
 - Query examples provided for common database operations.
 
 ## Database Schema
-The database consists of the following tables:
+The database consists of the following tables as shown below
 
 ### 1. `employees`
 | Column       | Type         | Description                           |
